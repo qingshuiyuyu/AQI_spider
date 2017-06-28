@@ -3,13 +3,19 @@
   
 ## 爬取内容：全国190多个城市，近三年来的天气质量情况
 
-## 开发环境 
-> ubantu-16.04 scrapy
-> Scrapy==1.4.0
-> scrapy-redis==0.6.3
-> scrapyd==1.1.0
-> python2.7
-> redis==2.10.5
+## 开发环境: 
+> ubantu-16.04 scrapy  
+
+> Scrapy==1.4.0  
+
+> scrapy-redis==0.6.3  
+
+> scrapyd==1.1.0  
+
+> python2.7  
+
+> redis==2.10.5  
+
 
 
 

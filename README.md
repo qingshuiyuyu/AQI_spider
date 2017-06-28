@@ -1,5 +1,20 @@
 # 基于scrapy-redis框架构建高密集IO分布式爬虫
 
+  
+## 爬取内容：全国190多个城市，近三年来的天气质量情况
+
+## 开发环境 
+> ubantu-16.04 scrapy
+> Scrapy==1.4.0
+> scrapy-redis==0.6.3
+> scrapyd==1.1.0
+> python2.7
+> redis==2.10.5
+
+
+
+
+
 ## 1.使用scrapy框架中 Spider或CrawlSpider模块构建爬虫
 
 ### 1.1 代码参考：AqiCrawlSpider
